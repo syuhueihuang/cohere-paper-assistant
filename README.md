@@ -48,7 +48,7 @@ cohere-paper-assistant/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/yourname/cohere-paper-assistant.git
+git clone https://github.com/syuhueihuang/cohere-paper-assistant.git
 cd cohere-paper-assistant
 ```
 
@@ -124,7 +124,7 @@ COHERE_API_KEY = "your_actual_key_here"
 
 I built a lightweight Research Paper Assistant using Cohere's API that helps users summarize research papers and ask questions through retrieval-augmented generation. The system extracts text from uploaded PDFs, splits the paper into chunks, creates semantic embeddings with Cohere Embed, stores them in FAISS, and generates grounded answers with Cohere Command while showing retrieved source chunks.
 
-GitHub: https://github.com/yourname/cohere-paper-assistant
+GitHub: https://github.com/syuhueihuang/cohere-paper-assistant
 
 ## Notes
 
